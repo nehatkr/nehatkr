@@ -4,7 +4,8 @@
 
 
  - 🔭 I’m currently working on Android Apps
- - 🌱 I’m currently learning CPP
+ - 🌱 I’m currently learning java
+ - 🌱 I’m currently learning Web Development
  - 🤔 I’m looking for ideas for my next projects
  - 🥅 2023 Goals: Become better at Android Studio
  - ⚡ Fun fact: I am a sketch artist as well. 
