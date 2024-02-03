@@ -4,10 +4,10 @@
 
 
  - 🔭 I’m currently working on Android Apps
- - 🌱 I’m currently learning java
+ - 🌱 I’m currently learning DSA with cpp
  - 🌱 I’m currently learning Web Development
  - 🤔 I’m looking for ideas for my next projects
- - 🥅 2023 Goals: Become better at Android Studio
+ - 🥅 2024 Goals: Become better at web Development
  - ⚡ Fun fact: I am a sketch artist as well. 
 
 
