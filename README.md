@@ -5,9 +5,9 @@
 
  - 🔭 I’m currently working on React
  - 🌱 I’m currently learning DSA with cpp
- - 🌱 I’m currently learning Web Development
+ - 🌱 I’m currently learning FrontEnd
  - 🤔 I’m looking for ideas for my next projects
- - 🥅 2024 Goals: Become better at web Development
+ - 🥅 2024 Goals: Become better at Frontend
  - ⚡ Fun fact: I am a sketch artist as well. 
 
 
