@@ -3,11 +3,11 @@
 <p><em>Engineering Student</em></p>
 
 
- - 🔭 I’m currently working on React and node.js
+ - 🔭 I’m currently working on React, node.js, mongoDB, express.js
  - 🌱 I’m currently learning DSA with cpp
- - 🌱 I’m currently learning FrontEnd
+ - 🌱 I’m currently learning FrontEnd and Fackend
  - 🤔 I’m looking for ideas for my next projects
- - 🥅 2025 Goals: Become better at Frontend as well as backend
+ - 🥅 2026 Goals: Become better at AI-FullStact Developer
  - ⚡ Fun fact: I am a sketch artist as well. 
 
 
